@@ -1,0 +1,7 @@
+<meta>
+	<info author="Volante" version="0.8" type="gamemode" name="The Game" description="Pretty much finished now" />
+	
+	<script src="s_logic.lua" />
+	<script src="c_logic.lua" type="client" />
+	
+</meta>
