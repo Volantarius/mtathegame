@@ -1,0 +1,34 @@
+<map edf:definitions="deathmatch,editor_main">
+    <spawnpoint id="spawnpoint (6)" interior="0" skin="121" dimension="0" posX="1928" posY="673.40002" posZ="10.8" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <vehicle id="vehicle (Premier) (1)" paintjob="3" interior="0" alpha="255" model="426" plate="11KB Y7W" dimension="0" posX="1929.4" posY="697.40002" posZ="10.6" rotX="0" rotY="0" rotZ="0" color="57,98,113,70,89,122,0,0,0,0,0,0"></vehicle>
+    <spawnpoint id="spawnpoint (7)" interior="0" skin="121" dimension="0" posX="1049" posY="1019.3" posZ="11" rotX="0" rotY="0" rotZ="324"></spawnpoint>
+    <vehicle id="vehicle (Glendale) (1)" paintjob="3" interior="0" alpha="255" model="466" plate="OA1I R1S" dimension="0" posX="1053.9" posY="1048" posZ="10.2" rotX="0" rotY="0" rotZ="0" color="123,14,14,123,14,14,0,0,0,0,0,0"></vehicle>
+    <spawnpoint id="spawnpoint (8)" interior="0" skin="121" dimension="0" posX="1665.5" posY="993.59998" posZ="10.8" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <vehicle id="vehicle (Mesa) (1)" paintjob="3" interior="0" alpha="255" model="500" plate="XVU3 9JT" dimension="0" posX="1655.7" posY="988.5" posZ="11" rotX="0" rotY="0" rotZ="0" color="115,46,62,105,88,83,0,0,0,0,0,0"></vehicle>
+    <spawnpoint id="spawnpoint (9)" interior="0" skin="121" dimension="0" posX="1607.2" posY="1823.7" posZ="10.8" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <vehicle id="vehicle (Club) (1)" paintjob="3" interior="0" alpha="255" model="589" plate="RMMB OMG" dimension="0" posX="1610.5" posY="1839.8" posZ="10.5" rotX="0" rotY="0" rotZ="0" color="233,143,15,89,110,135,0,0,0,0,0,0"></vehicle>
+    <spawnpoint id="spawnpoint (10)" interior="0" skin="121" dimension="0" posX="944.79999" posY="1733.2" posZ="8.9" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <vehicle id="vehicle (Picador) (1)" paintjob="3" interior="0" alpha="255" model="600" plate="ERDE QJS" dimension="0" posX="964" posY="1733.4" posZ="8.5" rotX="0" rotY="0" rotZ="310" color="138,143,144,175,177,177,0,0,0,0,0,0"></vehicle>
+    <spawnpoint id="spawnpoint (11)" interior="0" skin="121" dimension="0" posX="921.70001" posY="2599.1001" posZ="10.4" rotX="0" rotY="0" rotZ="240"></spawnpoint>
+    <vehicle id="vehicle (Buffalo) (1)" paintjob="3" interior="0" alpha="255" model="402" plate="DHG6 07X" dimension="0" posX="945.90002" posY="2585.1001" posZ="10.5" rotX="0" rotY="0" rotZ="240" color="130,36,36,127,105,86,0,0,0,0,0,0"></vehicle>
+    <spawnpoint id="spawnpoint (12)" interior="0" skin="121" dimension="0" posX="1495.7" posY="2773.5" posZ="10.8" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <vehicle id="vehicle (Windsor) (1)" paintjob="3" interior="0" alpha="255" model="555" plate="12EF DSG" dimension="0" posX="1510.9" posY="2773.3999" posZ="10.6" rotX="0" rotY="0" rotZ="270" color="21,57,116,245,245,245,0,0,0,0,0,0"></vehicle>
+    <spawnpoint id="spawnpoint (13)" interior="0" skin="121" dimension="0" posX="2306.8999" posY="2809" posZ="10.8" rotX="0" rotY="0" rotZ="180"></spawnpoint>
+    <vehicle id="vehicle (Blista Compact) (1)" paintjob="3" interior="0" alpha="255" model="496" plate="B8IL W5D" dimension="0" posX="2311.1001" posY="2782.3" posZ="10.6" rotX="0" rotY="0" rotZ="70" color="178,166,31,178,166,31,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Sparrow) (1)" paintjob="3" interior="0" alpha="255" model="469" plate="2XFX RNS" dimension="0" posX="2618.7" posY="2719.8999" posZ="36.6" rotX="0" rotY="0" rotZ="0" color="245,245,245,132,4,16,0,0,0,0,0,0"></vehicle>
+    <spawnpoint id="spawnpoint (14)" interior="0" skin="121" dimension="0" posX="2893.8" posY="2456" posZ="10.8" rotX="0" rotY="0" rotZ="190"></spawnpoint>
+    <vehicle id="vehicle (Stallion) (1)" paintjob="3" interior="0" alpha="255" model="439" plate="UBHK GIM" dimension="0" posX="2887.8" posY="2443.3999" posZ="10.8" rotX="0" rotY="0" rotZ="250" color="51,169,45,120,34,43,0,0,0,0,0,0"></vehicle>
+    <spawnpoint id="spawnpoint (15)" interior="0" skin="121" dimension="0" posX="2850.3" posY="1291.1" posZ="11.4" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <vehicle id="vehicle (Esperanto) (1)" paintjob="3" interior="0" alpha="255" model="419" plate="VY1P TUL" dimension="0" posX="2827.6001" posY="1291" posZ="10.7" rotX="0" rotY="0" rotZ="0" color="122,117,96,164,160,150,0,0,0,0,0,0"></vehicle>
+    <spawnpoint id="spawnpoint (16)" interior="0" skin="121" dimension="0" posX="2596.6001" posY="722.20001" posZ="11" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <vehicle id="vehicle (Washington) (1)" paintjob="3" interior="0" alpha="255" model="421" plate="EXAL O57" dimension="0" posX="2591.8" posY="734.09998" posZ="10.8" rotX="0" rotY="0" rotZ="0" color="38,55,57,245,245,245,0,0,0,0,0,0"></vehicle>
+    <object id="object (CJ_BIN1) (1)" breakable="true" interior="0" alpha="255" model="1359" doublesided="false" scale="1" dimension="0" posX="2279.8999" posY="705.70001" posZ="10.5" rotX="0" rotY="0" rotZ="0"></object>
+    <spawnpoint id="spawnpoint (17)" interior="0" skin="121" dimension="0" posX="2352.5" posY="1507.3" posZ="10.8" rotX="0" rotY="0" rotZ="110"></spawnpoint>
+    <vehicle id="vehicle (Uranus) (1)" paintjob="3" interior="0" alpha="255" model="558" plate="MV3E 4T5" dimension="0" posX="2334.7" posY="1494.7" posZ="10.5" rotX="0" rotY="0" rotZ="90" color="14,86,123,245,245,245,0,0,0,0,0,0"></vehicle>
+    <spawnpoint id="spawnpoint (18)" interior="0" skin="121" dimension="0" posX="1893.5" posY="2441.1001" posZ="11.2" rotX="0" rotY="0" rotZ="240"></spawnpoint>
+    <vehicle id="vehicle (Euros) (1)" paintjob="3" interior="0" alpha="255" model="587" plate="Z8JZ FEP" dimension="0" posX="1902.5" posY="2426.2998" posZ="10.6" rotX="0" rotY="0" rotZ="240" color="234,234,234,245,245,245,0,0,0,0,0,0"></vehicle>
+    <spawnpoint id="spawnpoint (19)" interior="0" skin="121" dimension="0" posX="2369.2" posY="2310.5" posZ="8.1" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <vehicle id="vehicle (Fortune) (1)" paintjob="3" interior="0" alpha="255" model="526" plate="7V16 4IW" dimension="0" posX="2369" posY="2324.6006" posZ="8" rotX="0" rotY="0" rotZ="0" color="43,80,94,0,0,0,0,0,0,0,0,0"></vehicle>
+    <spawnpoint id="spawnpoint (20)" interior="0" skin="121" dimension="0" posX="2618.6001" posY="1824.4" posZ="10.8" rotX="0" rotY="0" rotZ="90"></spawnpoint>
+    <vehicle id="vehicle (Voodoo) (1)" paintjob="3" interior="0" alpha="255" model="412" plate="O92W 99U" dimension="0" posX="2598.1001" posY="1823.8" posZ="10.8" rotX="0" rotY="0" rotZ="90" color="38,38,38,189,190,198,0,0,0,0,0,0"></vehicle>
+</map>
